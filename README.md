@@ -1,2 +1,4 @@
 # Single-cell-retinal-regeneration
-Single-cell sequencing on retinal regeneration
+10x Single-cell RNA sequencing data from the study of retinal regeneration
+
+Chick
