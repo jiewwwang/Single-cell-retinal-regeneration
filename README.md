@@ -1,11 +1,10 @@
 # Single-cell-retinal-regeneration
 10x Single-cell RNA sequencing data from the study of retinal regeneration
 
-The matrix of raw counts (in .mtx format) can be downloaded below.
-http://bioinfo.wilmer.jhu.edu/jiewang/Zebrafish_NMDA_Count_matrix.mtx (Zebrafish NMDA treatment).
-http://bioinfo.wilmer.jhu.edu/jiewang/Zebrafish_LD_Count_matrix.mtx (Zebrafish light damage).
-http://bioinfo.wilmer.jhu.edu/jiewang/Zebrafish_TNFa_Count_matrix.mtx (Zebrafish T+R treatment).
-
+The matrix of raw counts (in .mtx format) can be downloaded here:
+http://bioinfo.wilmer.jhu.edu/jiewang/Zebrafish_NMDA_Count_matrix.mtx (Zebrafish NMDA treatment),
+http://bioinfo.wilmer.jhu.edu/jiewang/Zebrafish_LD_Count_matrix.mtx (Zebrafish light damage),
+http://bioinfo.wilmer.jhu.edu/jiewang/Zebrafish_TNFa_Count_matrix.mtx (Zebrafish T+R treatment),
 http://bioinfo.wilmer.jhu.edu/jiewang/Chick_Count_matrix.mtx (Chick MNDA or growth factor treatment).
 
 The files 'Zebrafish_Gene_features.tsv', 'Mouse_Gene_features.tsv' and 'Chick_Gene_features.tsv' separately contain the features of genes in zebrafish, mouse and chick. 
