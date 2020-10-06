@@ -1,7 +1,7 @@
 # Single-cell-retinal-regeneration
 10x Single-cell RNA sequencing data from the study of retinal regeneration
 
-The matrix of raw counts (in .mtx format) can be downloaded in here, 
+The matrix of raw counts (in .mtx format) can be downloaded below.
 Zebrafish NMDA treatment: http://bioinfo.wilmer.jhu.edu/jiewang/Zebrafish_NMDA_Count_matrix.mtx.
 Zebrafish light damage: http://bioinfo.wilmer.jhu.edu/jiewang/Zebrafish_LD_Count_matrix.mtx.
 Zebrafish T+R treatment: http://bioinfo.wilmer.jhu.edu/jiewang/Zebrafish_TNFa_Count_matrix.mtx.
