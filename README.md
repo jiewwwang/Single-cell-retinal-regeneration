@@ -2,8 +2,8 @@
 10x Single-cell RNA sequencing data from the study of retinal regeneration.
 
 The matrix of raw counts (in .mtx format) can be downloaded in here http://bioinfo.wilmer.jhu.edu/jiewang/scRNAseq_count_matrix/
-Mouse_NMDA_count_matrix.mtx (Mouse NMDA treatment)
-Mouse_LD_count_matrix.mtx (Mouse light damage treatment)
+Mouse_NMDA_count_matrix.mtx (Mouse NMDA treatment),
+Mouse_LD_count_matrix.mtx (Mouse light damage treatment),
 Zebrafish_NMDA_count_matrix.mtx (Zebrafish NMDA treatment),
 Zebrafish_LD_count_matrix.mtx (Zebrafish light damage),
 Zebrafish_TNFa_count_matrix.mtx (Zebrafish T+R treatment),
