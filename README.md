@@ -13,4 +13,4 @@ The files 'Zebrafish_gene_features.tsv', 'Mouse_gene_features.tsv' and 'Chick_ge
 
 The files 'Zebrafish_NMDA_cell_features.tsv', 'Zebrafish_LD_cell_features.tsv' and 'Zebrafish_TNFa_cell_features.tsv' contain the features of cells in zebrafish from NMDA treatment, light damage and T+R treatment, respectively. 
 
-The file 'Chick_Cell_features.tsv' contain the features of cells in chick NMDA or growth factor treatment. 
+The file 'Chick_NMDAandGF_cell_features.tsv' contain the features of cells in chick NMDA or growth factor treatment. 
