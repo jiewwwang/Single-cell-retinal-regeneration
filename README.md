@@ -1,6 +1,5 @@
 # Single-cell-retinal-regeneration
-10x Single-cell RNA sequencing data from the study of retinal regeneration.
-The publication of this study 'Gene regulatory networks controlling vertebrate retinal regeneration' is available in Science https://science.sciencemag.org/content/early/2020/09/30/science.abb8598.
+10x Single-cell RNA sequencing data from the study of retinal regeneration which is published in Science 'Gene regulatory networks controlling vertebrate retinal regeneration' https://science.sciencemag.org/content/early/2020/09/30/science.abb8598.
 
 The matrix of raw counts (in .mtx format) can be downloaded in here http://bioinfo.wilmer.jhu.edu/jiewang/scRNAseq_count_matrix/
 Mouse_NMDA_count_matrix.mtx (Mouse NMDA treatment),
