@@ -13,7 +13,7 @@ Zebrafish_LD_count_matrix.mtx (Zebrafish light damage),
 Zebrafish_TNFa_count_matrix.mtx (Zebrafish T+R treatment),
 Chick_NMDAandGF_count_matrix.mtx (Chick NMDA or growth factor treatment).
 
-The folder 'Seurat_objects' contains corresponding Seurat objects (the variable 'pbmc'). Please install R package Seurat version 2 for loading these objects (instruction if here https://satijalab.org/seurat/install.html).
+The folder 'Seurat_objects' contains corresponding Seurat objects (the variable 'pbmc'). Please install R package Seurat version 2 for loading these objects (the instruction is here https://satijalab.org/seurat/install.html).
 
 
 The files 'Zebrafish_gene_features.tsv', 'Mouse_gene_features.tsv' and 'Chick_gene_features.tsv' separately contain the features of genes in zebrafish, mouse and chick. 
