@@ -1,4 +1,4 @@
-# Single-cell-retinal-regeneration
+# Single-cell retinal regeneration
 10x Single-cell RNA sequencing data from the study of retinal regeneration which is published in Science 'Gene regulatory networks controlling vertebrate retinal regeneration' https://science.sciencemag.org/content/early/2020/09/30/science.abb8598.
 
 ## Features of genes
