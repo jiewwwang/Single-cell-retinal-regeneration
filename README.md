@@ -27,5 +27,5 @@ The folder 'Seurat_objects' contains corresponding Seurat objects (the variable 
 
 
 ## Integrated Regulatory Network Analysis (IReNA)
-The package of IReNA will be released soon (around the mid of June).
+The R package of IReNA will be released soon (around the mid of June).
 
