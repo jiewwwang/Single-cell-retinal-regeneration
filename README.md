@@ -23,4 +23,9 @@ The folder 'Bam_files' contains raw sequencing data in bam format.
 
 The folder 'Count_matrix' contains the matrix of raw counts in mtx format.
 
-The folder 'Seurat_objects' contains corresponding Seurat objects (the variable 'pbmc'). Please install R package Seurat version 2 for loading these objects (the instruction is here https://satijalab.org/seurat/install.html).
+The folder 'Seurat_objects' contains corresponding Seurat objects (the variable 'pbmc'). Please install R package Seurat version 2.3.0 for loading these objects (the instruction is here https://satijalab.org/seurat/install.html).
+
+
+## Integrated Regulatory Network Analysis (IReNA)
+The package of IReNA will be released soon (around the mid of June).
+
