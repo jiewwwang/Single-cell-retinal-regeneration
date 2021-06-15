@@ -1,5 +1,5 @@
 # Single-cell retinal regeneration
-10x Single-cell RNA sequencing data from the study of retinal regeneration which is published in Science 'Gene regulatory networks controlling vertebrate retinal regeneration' https://science.sciencemag.org/content/370/6519/eabb8598.
+10x Single-cell RNA sequencing (scRNA-seq) data from the study of retinal regeneration which is published in Science 'Gene regulatory networks controlling vertebrate retinal regeneration' https://science.sciencemag.org/content/370/6519/eabb8598.
 
 ## Sample information
 The table 'Sample_information_for_scRNAseq.xlsx' contains treatment and sample information for scRNAseq.
@@ -27,5 +27,6 @@ The folder 'Seurat_objects' contains corresponding Seurat objects (the variable 
 
 
 ## Integrated Regulatory Network Analysis (IReNA)
-The R package of IReNA will be released soon (around the mid of June).
+The first version of R package IReNA is named GReNA (General Regulatory Network Analysis) and accessible in https://github.com/jiang-junyao/GReNA. GReNA only uses expression profiles (e.g., scRNA-seq data) to reconstruct regulatory networks. Later, we will update the version of IReNA which could perform regulatory network analysis through integrating scRNA-seq with ATAC-seq. 
+
 
