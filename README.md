@@ -27,6 +27,6 @@ The folder 'Seurat_objects' contains corresponding Seurat objects (the variable 
 
 
 ## Integrated Regulatory Network Analysis (IReNA)
-The first version of R package IReNA is named GReNA (General Regulatory Network Analysis) and accessible in https://github.com/jiang-junyao/GReNA. GReNA only uses expression profiles (e.g., scRNA-seq data) to reconstruct regulatory networks. Later, we will update the version of IReNA which could perform regulatory network analysis through integrating scRNA-seq with ATAC-seq. 
+The first version of R package IReNA is accessible in https://github.com/jiang-junyao/IReNA.
 
 
