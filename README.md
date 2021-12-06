@@ -1,5 +1,6 @@
 # Single-cell retinal regeneration
-10x Single-cell RNA sequencing (scRNA-seq) data from the study of retinal regeneration which is published in Science 'Gene regulatory networks controlling vertebrate retinal regeneration' https://science.sciencemag.org/content/370/6519/eabb8598. Citation information: Hoang T, Wang J, Boyd P, et al. Gene regulatory networks controlling vertebrate retinal regeneration. Science 2020; 370(6519):eabb8598.
+10x Single-cell RNA sequencing (scRNA-seq) data from the study of retinal regeneration which is published in Science 'Gene regulatory networks controlling vertebrate retinal regeneration' https://science.sciencemag.org/content/370/6519/eabb8598. 
+Citation information: Hoang T, Wang J, Boyd P, et al. Gene regulatory networks controlling vertebrate retinal regeneration. Science 2020; 370(6519):eabb8598.
 
 ## Sample information
 The table 'Sample_information_for_scRNAseq.xlsx' contains treatment and sample information for scRNAseq.
