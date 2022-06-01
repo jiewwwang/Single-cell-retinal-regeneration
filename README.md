@@ -30,6 +30,6 @@ The folder 'Seurat_objects' contains corresponding Seurat objects (the variable 
 If the Seurat object can not be loaded in your platform, please try to use the matched 'features of genes', 'features of cells' and 'the matrix of raw counts' to generate a new Seurat object.
 
 ## 5. Integrated Regulatory Network Analysis (IReNA)
-The first version of R package IReNA is accessible in https://github.com/jiang-junyao/IReNA.
+R package IReNA is accessible in https://github.com/jiang-junyao/IReNA.
 
 
