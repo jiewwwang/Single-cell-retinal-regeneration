@@ -19,15 +19,10 @@ The files 'Mouse_NMDA_cell_features.tsv' and 'Mouse_LD_cell_features.tsv' contai
 
 The file 'Chick_NMDAandGF_cell_features.tsv' contains the features of cells in chick NMDA or growth factor treatment. 
 
-## 4. Raw data are available in http://bioinfo.wilmer.jhu.edu/jiewang/scRNAseq/
+## 4. Raw data
 
-The folder 'Bam_files' contains raw sequencing data in bam format.
-
-The folder 'Count_matrix' contains the matrix of raw counts in mtx format.
-
-The folder 'Seurat_objects' contains corresponding Seurat objects (the variable 'pbmc'). Please install R package Seurat version 2.3.0 for loading these objects (the instruction is here https://satijalab.org/seurat/install.html). 
-
-If the Seurat object can not be loaded in your platform, please try to use the matched 'features of genes', 'features of cells' and 'the matrix of raw counts' to generate a new Seurat object. We strongly suggest you use three matrices to generate your own Seurat object for each condition.
+Seurat objects (accession: GitHub-jiewwwang) in qs format are available from the Download page of scRetinaDB database https://casapp.dnayun.com/scretina/.
+'Count_matrix' the matrix of raw counts in mtx format will be recovered soon. When you got the Count matrix, please try to use the matched 'features of genes', 'features of cells' and 'the matrix of raw counts' to generate a new Seurat object for each condition.
 
 ## 5. Integrated Regulatory Network Analysis (IReNA)
 R package IReNA is accessible in https://github.com/jiang-junyao/IReNA.
